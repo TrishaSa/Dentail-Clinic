@@ -10,8 +10,8 @@ const Footer = () => {
                             <img class="w-75" src="/static/media/logon.ca069059.png" alt=""/>
                             </div>
                             <div class="col-md-6 ms-5">
-                                <h3>Life Motion Clinic</h3>
-                                <p>Best Medical &amp; Healthcare Service For Your Family</p>
+                                <h3>Navana Dental Clinic</h3>
+                                <p>Best Dental care Service For Your Family</p>
                             </div>
                         </div>
                     </div>
