@@ -1,6 +1,6 @@
 
 # MY REACT APP:- MEDICHA
-The project link  [Navana Dental Clinic](https://github.com/facebook/create-react-app).
+The project link  [Navana Dental Clinic](https://rococo-churros-34f8e4.netlify.app).
 
 ## About project
 
