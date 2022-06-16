@@ -1,0 +1,28 @@
+.description{
+    font-weight: 400;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.doctor{
+    box-shadow: 10px 10px 10px 10px rgba(210, 188, 188, 0.496);
+    margin-left: 15px;
+}
+.doctor:hover{
+    background-color: rgba(28, 89, 125, 0.366);
+}
+.icon-img img{
+    padding: 5px;
+}
+
+.doctor-detail h4{
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.doctor-detail h6{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 5px;
+    padding: 8px;
+}

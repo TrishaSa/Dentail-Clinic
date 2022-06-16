@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Tooth Protection",
+        "description": " Every day, a thin film of bacteria called dental plaque builds up on your teeth. The bacteria in plaque produce acids that can harm enamel and cause cavities. Brushing and flossing your teeth can prevent decay, but once a cavity forms, to avoid further damage, a dentist must fix it with a filling.",
+        "img": "https://i.ibb.co/Vmb5xM0/tooth-protect.png"
+    },
+    {
+        "id": 2,
+        "name": "Dental Implants",
+        "price": "100",
+        "description": "Implants are used to replace missing roots and support artificial replacement teeth. They are comfortable and look like natural teeth. A dental implant is an artificial root made of titanium metal. It is inserted into the jawbone to replace the root of the natural tooth. An artificial replacement tooth is attached to the implant. The implant acts as an anchor to hold the replacement tooth in place.",
+        "img": "https://i.ibb.co/1R1YMDv/Dental-Implants1.png"
+    },
+    {
+        "id": 3,
+        "name": "Endodontics",
+        "price": "150",
+        "description": "If a tooth is damaged by decay or injury, the canals inside the root of the tooth may become infected. If the infection is not treated, it can lead to severe pain, abscess and tooth loss. Fortunately, the infection can be removed from the tooth.",
+        "img": "https://i.ibb.co/vsFsqQw/Dental-Care1.png"
+    },
+    {
+        "id": 4,
+        "name": "Teeth Whitening",
+        "price": "180",
+        "description": "Teeth whitening is a simple process. Whitening products contain one of two tooth bleaches (hydrogen peroxide or carbamide peroxide). These bleaches break stains into smaller pieces, which makes the color less concentrated and your teeth brighter..",
+        "img": "https://i.ibb.co/RpR19JZ/teeth-whitening-main.png"
+    },
+    {
+        "id": 5,
+        "name": "Tooth Extraction",
+        "price": "100",
+        "description": "Tooth extraction is performed by a dentist or oral surgeon and is a relatively quick outpatient procedure with either local, general, intravenous anesthesia, or a combination. Removing visible teeth is a simple extraction. Teeth that are broken, below the surface, or impacted require a more involved procedure.",
+        "img": "https://i.ibb.co/qDkyHSQ/Tooth-Removal1-Copy.png"
+    },
+    {
+        "id": 6,
+        "name": "Removal of Tartar",
+        "price": "300",
+        "description": " Teeth whitening is a simple process. Whitening products contain one of two tooth bleaches (hydrogen peroxide or carbamide peroxide). These bleaches break stains into smaller pieces, which makes the color less concentrated and your teeth brighter.",
+        "img": "https://i.ibb.co/VxGZfTj/Removal-of-Tartar1-Copy-Copy.png"
+    }
+]

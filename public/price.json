@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "BASIC PLAN",
+        "price" : "50",
+        "package1":"Diagnostic Services",
+        "package2":"Professional Consultation",
+        "package3":"Tooth Implant",
+        "package4":"Surgical Extractions",
+        "package5":"Teeth Whitening",
+        "package6":"Teeth Cleaning"
+    },
+    {
+        "id": 1,
+        "name": "BASIC PLAN",
+        "price" : "50",
+        "package1":"Diagnostic Services",
+        "package2":"Professional Consultation",
+        "package3":"Tooth Implant",
+        "package4":"Surgical Extractions",
+        "package5":"Teeth Whitening",
+        "package6":"Teeth Cleaning"
+    },
+    {
+        "id": 1,
+        "name": "BASIC PLAN",
+        "price" : "50",
+        "package1":"Diagnostic Services",
+        "package2":"Professional Consultation",
+        "package3":"Tooth Implant",
+        "package4":"Surgical Extractions",
+        "package5":"Teeth Whitening",
+        "package6":"Teeth Cleaning"
+    },
+    {
+        "id": 1,
+        "name": "BASIC PLAN",
+        "price" : "50",
+        "package1":"Diagnostic Services",
+        "package2":"Professional Consultation",
+        "package3":"Tooth Implant",
+        "package4":"Surgical Extractions",
+        "package5":"Teeth Whitening",
+        "package6":"Teeth Cleaning"
+    }
+]

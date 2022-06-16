@@ -1,0 +1,15 @@
+.link-item{
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+span{
+    color:rgba(215, 223, 229, 0.625);
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 15px;
+}
+

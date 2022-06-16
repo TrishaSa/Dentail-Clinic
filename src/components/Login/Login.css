@@ -1,0 +1,28 @@
+.input-field {
+    padding: 10px;
+    width: 25%;
+    border: none;
+    border-bottom: 1px solid grey;
+    outline: none;
+}
+
+.login-btn, .register-btn {
+    background-color: #f7227a;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.login-btn:hover, .register-btn:hover{
+    background-color: #c60b9a85;
+}
+
+.login, .register{
+    text-align: center;
+}
+

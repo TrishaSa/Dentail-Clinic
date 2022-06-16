@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Lloyd Wilson",
+        "profession": "Dual Specialization – Implantologist and Periodontist",
+        "description": " He has successfully completed programs in periodontal surgery and implants with Team Atlanta in the US and Steigmann Institute in Germany.",
+        "img": "https://i.ibb.co/F5YCRhs/xdoc-1-jpg-pagespeed-ic-myv-Vwp80-RP.png",
+        "fb": "https://i.ibb.co/JCWMqZQ/facebook-fb-icon-753256-1.png",
+        "google": "https://i.ibb.co/C2Rn3m2/google-has-come-a-long-way-google-home-google-chrome-and-google-824654-1.png",
+        "twitter": "https://i.ibb.co/kh1xKhx/logo-social-network-twitter-icon-753306-1.png",
+        "insta": "https://i.ibb.co/Wpbfyrh/instagram-color-icon-instagram-logo-social-media-instagram-icon-164867-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Rachel Parker",
+        "profession": "Celebrity Cosmetic Dentist",
+        "description": "Trained in England, she has performed over 2000 treatments, which include complex smile makeovers and full mouth reconstruction. Being a renowned celebrity cosmetic dentist, her articles have featured in various frontline publications.",
+        "img": "https://i.ibb.co/pfvSqX8/xdoc-4-jpg-pagespeed-ic-7oxa-XGL52-E.png",
+        "fb": "https://i.ibb.co/JCWMqZQ/facebook-fb-icon-753256-1.png",
+        "google": "https://i.ibb.co/C2Rn3m2/google-has-come-a-long-way-google-home-google-chrome-and-google-824654-1.png",
+        "twitter": "https://i.ibb.co/kh1xKhx/logo-social-network-twitter-icon-753306-1.png",
+        "insta": "https://i.ibb.co/Wpbfyrh/instagram-color-icon-instagram-logo-social-media-instagram-icon-164867-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Ian Smith",
+        "profession": "Orthodontist",
+        "description": "With a strong professional background and training in latest techniques like Invisalign and Incognito, he specializes in preventive and interceptive orthodontics. His expertise includes modern self-ligating systems of braces such as the Smart Clip (3M) an.",
+        "img": "https://i.ibb.co/0nqgNjK/doctor.png",
+        "fb": "https://i.ibb.co/JCWMqZQ/facebook-fb-icon-753256-1.png",
+        "google": "https://i.ibb.co/C2Rn3m2/google-has-come-a-long-way-google-home-google-chrome-and-google-824654-1.png",
+        "twitter": "https://i.ibb.co/kh1xKhx/logo-social-network-twitter-icon-753306-1.png",
+        "insta": "https://i.ibb.co/Wpbfyrh/instagram-color-icon-instagram-logo-social-media-instagram-icon-164867-1.png"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Alicia Henderson",
+        "profession": "Masters in Oral and Maxillofacial Surgery",
+        "description": " Dr. Prakriti has completed her Masters in Oral and Maxillofacial Surgery from the University of Glasgow, UK. She has also completed numerous fellowships in Cleft Surgery from Belgium.Dr. Prakriti's forte lies in her comprehensive treatment planning, surgical precision, the ability to build a friendly rapport with all her patients and an extensive skill-set which is highly regarded by patients and fellow peers alike.",
+        "img": "https://i.ibb.co/pbYq21H/file-20191203-66986-im7o5-1.png",
+        "fb": "https://i.ibb.co/JCWMqZQ/facebook-fb-icon-753256-1.png",
+        "google": "https://i.ibb.co/C2Rn3m2/google-has-come-a-long-way-google-home-google-chrome-and-google-824654-1.png",
+        "twitter": "https://i.ibb.co/kh1xKhx/logo-social-network-twitter-icon-753306-1.png",
+        "insta": "https://i.ibb.co/Wpbfyrh/instagram-color-icon-instagram-logo-social-media-instagram-icon-164867-1.png"
+    }
+]

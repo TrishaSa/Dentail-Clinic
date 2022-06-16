@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vintes Mars",
+        "profession": "Senior Excutive Finance",
+        "description": " Experienced one of the best Dental care services at Navana Dental. The clinic is bestowed with superior technology & prolific experts on board.",
+        "img": "https://i.ibb.co/DKJkgcj/xperson-2-jpg-pagespeed-ic-Xrdu-n-PZRp.png"
+    },
+    {
+        "id": 2,
+        "name": "Chris Jemes",
+        "profession": "Business Man",
+        "description": "Been blown away by how professional it is, the cleanliness, everything is sterilized. It's a wonderful centre. It's been a lot of fun to see the quality and the first class way that I have been treated.",
+        "img": "https://i.ibb.co/z6P9YF3/xperson-1-jpg-pagespeed-ic-a2-Mn-MHMs44.png"
+    },
+    {
+        "id": 3,
+        "name": "Markus Linn",
+        "profession": "React Developer",
+        "description": "What I really love about this place is that, they really attend you with very personal care, they customise things for you. Hats off to Navan and thank your for giving me a nice bright smile. I would want you all to come visit dentzz and get a perfect smile..",
+        "img": "https://i.ibb.co/kKHFwHK/xperson-3-jpg-pagespeed-ic-Cln-ja-M1j-K.png"
+    },
+    {
+        "id": 4,
+        "name": "Kristean Venly",
+        "profession": "Marketing Manager",
+        "description": " I was so conscious of my smile earlier, until I got my teeth done with these Magicians - Dr Ian Smith. I am so much more confident and I smile with ease now.The ambience at Navana is very relaxing and soothing, with the soft music playing in the background, its almost like being in a lounge, whilst I am being grilled, with no pain.",
+        "img": "https://i.ibb.co/KKCYWSd/images.png"
+    }
+]
+
+

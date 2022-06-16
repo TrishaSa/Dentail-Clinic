@@ -1,0 +1,28 @@
+.cart {
+    height: 450px;
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 40px;
+    box-shadow: 20px 20px 50px 10px rgba(57, 131, 161, 0.248) inset;
+}
+.img-container img{
+    width: 100px;
+    padding: 20px 0;
+}
+.btn-more{
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    padding: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    background-color: rgba(41, 113, 142, 0.685);
+}
+
+.cart-body p{
+    font-weight: 400;
+    font-size: 18px;
+    padding: 5px;
+}
